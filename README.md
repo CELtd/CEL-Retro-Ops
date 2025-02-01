@@ -2,7 +2,7 @@
 This repo receives funding to pass on to FIL-RetroPGF operational contributors. 
 
 Specifically for 
-- Round 3 project manager
-- Round 3 publicity
-- Round 3 design
-- Round 2 experiments
+- FIL-RetroPGF-3 project manager
+- FIL-RetroPGF-3 publicity
+- FIL-RetroPGF-3 design
+- FIL-RetroPGF-2 experiments
